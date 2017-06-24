@@ -20,3 +20,11 @@ Besides of these two articals, there are also other Meterials, such as NIPS Work
 ### Gihub Repository
 
 I found one github repository which owned by an indian guy, and there are list of projects or articals which named GAN, the repository is at here -- [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+### Tutorials and Technotical Blogs
+
+1. How to Train a GAN? Tips and tricks to make GANs work. It is at here -- [ganhacks](https://github.com/soumith/ganhacks)
+2. There is one Tutorial on NIPS 2016 for GAN, it is at here -- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+3. [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
+4. There is one post of OpenAI for Generative Models, it is at here -- [Generative Models](https://blog.openai.com/generative-models/)
+5. [SimGANs - a game changer in unsupervised learning, self driving cars, and more](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
