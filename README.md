@@ -5,9 +5,10 @@
 ## GAN
 主要包含关于GAN的论文、材料、教程、项目、以及一些代码。
 
-[GAN Zone]()
+[GAN Zone](https://github.com/zhangxiaoya/TutorialResource/tree/master/GAN)
 
 ## vSLAM
 
 主要包含关于VSLAM的学习材料、项目等！
-[vSLAM Zone]()
+
+[vSLAM Zone](https://github.com/zhangxiaoya/TutorialResource/tree/master/SLAM)
